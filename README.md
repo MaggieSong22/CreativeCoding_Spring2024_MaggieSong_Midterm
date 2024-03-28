@@ -1,0 +1,2 @@
+# CreativeCoding_Spring2024_MaggieSong_Midterm
+Creative Coding Spring2024 Maggie Song Midterm
